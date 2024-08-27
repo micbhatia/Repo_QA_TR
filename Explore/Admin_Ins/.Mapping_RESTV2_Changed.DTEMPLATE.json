@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "9Cz4P6TAFbHf2cLeD9umOG",
-    "name" : "Mapping_RESTV2",
+    "name" : "Mapping_RESTV2_Changed",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -17,13 +17,13 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-08-27T04:46:43.333Z",
+  "updateTime" : "2024-08-27T04:49:58.446Z",
   "objectRefs" : [ {
     "id" : "1CeO9GTWfXbiYhjxAmibE2",
     "name" : "IDMC_Ins_LocalCsvFile",
